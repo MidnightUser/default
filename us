@@ -3,12 +3,12 @@
     "hwid":"409894090641026223",
     "key":"eyJpc2JldGEiOnRydWUsImlzc3RhYmxlIjpmYWxzZSwic3VidGlsbCI6NDExNjQxNjg1Nn0=",
     "username":"skeerty",
-    "banned": false
+    "banned":false
   },
   {
     "hwid":"525252",
     "key":"nil",
     "username":"TVOYA MAMASHA",
-    "banned": poshelnah
+    "banned":true
   },
 ]
